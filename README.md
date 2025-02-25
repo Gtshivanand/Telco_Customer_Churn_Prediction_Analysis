@@ -274,7 +274,11 @@ The AUC of the classifier came out to be about 0.93 which is better than all the
 After performing feature engineering along with model experimentation, it can be found that the hyperparameter tuned random forest is performing the best on the test set (unseen data). We can expect the performance to be quite similar in real-world assuming that the distribution of the test data is similar to the distribution of the real-time data. 
 
 
-<img src=""/>
+<img src="https://github.com/Gtshivanand/Telco_Customer_Churn_Prediction_Analysis/blob/main/Images/Performance%20Metrics%20of%20the%20Best%20XGB%20Model.png"/>
+Observation: 
+1.It could be seen based on the results that the model that we have chosen and __hyperparameter tuned (XGboost)__ is performing really well on the cross-validation data. 
+2. Therefore, the model would be able to predict whether a customer is going to __churn (leave the service) or not__ with an accuracy of about __85%__ which is not bad for a model that contains imbalanced data along with less number of samples that is completely contrary to a real-world problem that contains millions of customers or data points respectively. 
+3. Therefore, we can expect similar performance of the model on the __test data__ as well provided that the distribution of the data does not change compared to the __cross-validation data__. 
 
 ## Future Scope
 * Additional features such as the __location__ of the customer could be added which would also help in determining whether a person is going to stay in the __telco service or not__.
