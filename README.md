@@ -273,6 +273,9 @@ The AUC of the classifier came out to be about 0.93 which is better than all the
 
 After performing feature engineering along with model experimentation, it can be found that the hyperparameter tuned random forest is performing the best on the test set (unseen data). We can expect the performance to be quite similar in real-world assuming that the distribution of the test data is similar to the distribution of the real-time data. 
 
+
+<img src=""/>
+
 ## Future Scope
 * Additional features such as the __location__ of the customer could be added which would also help in determining whether a person is going to stay in the __telco service or not__.
 * __More training data__ could be collected to ensure that we get better prediction outcomes. 
