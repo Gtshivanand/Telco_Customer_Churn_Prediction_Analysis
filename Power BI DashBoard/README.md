@@ -40,9 +40,11 @@ The Telco Customer Churn Prediction Analysis project focuses on utilizing custom
 5. **Visualization Development:** Creating interactive dashboards in Power BI to present key insights.
 6. **Insight Generation:** Analyzing patterns and developing actionable insights to minimize customer churn.
 
-#Data Modeling:
+### **Data Modeling:**
 
 The data model for this project is designed to optimize performance and facilitate comprehensive analysis. It is structured using a Star Schema approach in Power BI, ensuring efficient querying and visualization of customer churn insights.
+
+<img src="https://github.com/Gtshivanand/Telco_Customer_Churn_Prediction_Analysis/blob/main/Power%20BI%20DashBoard/Screenshots/Data%20Model.png"/>
 
 Tables and Relationships:
 
@@ -89,28 +91,30 @@ This model facilitates an integrated analysis across multiple customer dimension
 
 
 ### **Visualization Development:**
-1. **page 1.Churned Customer Analysis:**
-      <img Src="https://github.com/Gtshivanand/Telco_Customer_Churn_Prediction_Analysis/blob/main/Power%20BI%20DashBoard/Screenshots/Churned%20Customer%20Analysis.png"/>
+**page 1.Churned Customer Analysis:**
+<img Src="https://github.com/Gtshivanand/Telco_Customer_Churn_Prediction_Analysis/blob/main/Power%20BI%20DashBoard/Screenshots/Churned%20Customer%20Analysis.png"/>
 
    - Analysis of churned customer data with detailed visualizations.
    - Key metrics: Churn Rate, Customer Distribution by Contract Type, Payment Method, and Tenure.
 
-3. **page 2.Customer Analysis:**
+**page 2.Customer Analysis:**
 
-      <img Src=""/>
+<img Src="https://github.com/Gtshivanand/Telco_Customer_Churn_Prediction_Analysis/blob/main/Power%20BI%20DashBoard/Screenshots/Customer%20Analysis.png"/>
+   
    - Comprehensive overview of all customers' data.
    - Key insights: Customer demographics, service usage, and payment methods.
 
-4. **page 3.Not Churn Customer Risk Analysis :**
+**page 3.Not Churn Customer Risk Analysis :**
 
-      <img Src=""/>
+<img Src="https://github.com/Gtshivanand/Telco_Customer_Churn_Prediction_Analysis/blob/main/Power%20BI%20DashBoard/Screenshots/Not%20Churn%20Customer%20Risk%20Analysis.png"/>
+   
    - Analysis of customers who have not yet churned.
    - Built a Machine Learning (ML) model to predict future risky customers.
    - Visualizations highlight high-risk customers and key contributing factors.
 
-5. **page 4.Q&A Section:**
+**page 4.Q&A Section:**
 
-   <img Src=""/>
+<img Src="https://github.com/Gtshivanand/Telco_Customer_Churn_Prediction_Analysis/blob/main/Power%20BI%20DashBoard/Screenshots/Screenshot%202025-03-09%20213104.png"/>
    
    - Interactive Q&A section allowing users to explore specific insights dynamically.
 
