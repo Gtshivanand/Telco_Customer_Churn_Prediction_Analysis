@@ -1,4 +1,4 @@
-﻿# ☎️ Telco Customer Churn Prediction ☎️
+﻿# ☎️ Telecom Customer Churn Analysis Power BI Dashboard ☎️
 
 
 <img src = "https://github.com/Gtshivanand/Telco_Customer_Churn_Prediction_Analysis/blob/main/Images/Telecommunication.png" />
